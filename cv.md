@@ -11,3 +11,11 @@
 **Codewars:** [yal0](https://www.codewars.com/users/yal0)
 
 ---
+<!-- ## About Me -->
+
+## Skills
+* HTML5, CSS3
+* Java Script
+* C++
+* MS SQL, MySQL
+* Git
